@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605983569091",
+    "project_id": "ddoddo-e621b",
+    "storage_bucket": "ddoddo-e621b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605983569091:android:f54ee5d8e6991a24a3de76",
+        "android_client_info": {
+          "package_name": "com.ddo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV4EBR4UOMHkaXCzxc4lsqbkTC0jGVusM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
